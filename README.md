@@ -32,7 +32,7 @@
 <h6>
   Ludovico Mazzarisi<br/>
   <a href="https://github.com/modul31">GitHub</a> · 
-  <b>E-Mail: </b> L.MAZZARISI@STUDENTI.UNISA.IT	·
+  <b>E-Mail: </b> <a href="mailto:L.MAZZARISI@STUDENTI.UNISA.IT">L.MAZZARISI@STUDENTI.UNISA.IT</a>
 </h6>
 
 <img src="https://avatars0.githubusercontent.com/u/44703164?s=460&u=7cc94b0ac65ab5a8467e834902a6d625286e9703&v=4" height="50" align="left">
