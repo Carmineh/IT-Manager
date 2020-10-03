@@ -1,5 +1,5 @@
-<h1 align="center">Progetto Ingegneria del Software 2020/21 - UniSA</h1>
-<h2 align="center">IT-Manager</h2>
+<h2 align="center">Progetto Ingegneria del Software 2020/21 - UniSA</h2>
+<h1 align="center">IT-Manager</h1>
 
 <p> Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di informatica. Nel software, sviluppato sotto piattaforma Web, permetterà di gestire l'intero inventario e i vari dipendenti mediante pagine apposite, nello specifico: </p>
 
