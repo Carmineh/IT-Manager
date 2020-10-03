@@ -18,4 +18,5 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
 **Partecipanti al Progetto:**
 
 	* Calabrese Carmine MAT: 0512105740
+	* Ludovico Mazzarisi MAT: 0512105836
 	
