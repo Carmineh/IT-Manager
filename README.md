@@ -21,7 +21,7 @@
 
 ###### Partecipanti al Progetto:
 		
-| Studente  || Studente  | Matricola | E-Mail  |
+| Studente  | Matricola | E-Mail  |
 | ------------- | ------------- | ------------- |
 | <a href="https://github.com/Carmineh">Carmine Calabrese</a>  | 0512105740  | C.CALABRESE31@STUDENTI.UNISA.IT  |
 | <a href="https://github.com/modul31">Ludovico Mazzarisi</a>  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
