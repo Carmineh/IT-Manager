@@ -15,7 +15,7 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
     Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc).
 	
 
-**Partecipanti al Progetto:**
+* **Partecipanti al Progetto:**
 
 	* Calabrese Carmine     MAT: 0512105740
 	* Ludovico Mazzarisi    MAT: 0512105836
