@@ -19,21 +19,27 @@
 </ul>
 
 
-###### Partecipanti al Progetto:
-		
-| Studente  | Matricola | E-Mail  |
-| ------------- | ------------- | ------------- |
-| <a href="https://github.com/Carmineh">Carmine Calabrese</a>  | 0512105740  | C.CALABRESE31@STUDENTI.UNISA.IT  |
-| <a href="https://github.com/modul31">Ludovico Mazzarisi</a>  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
-| <a href="https://github.com/stefanBerau">Stefano Biddau</a>  | 0512105824  | S.BIDDAU@STUDENTI.UNISA.IT  |
-| <a href="https://github.com/Carmineh">Stefano Barrella</a>  | 051210----  | ------@STUDENTI.UNISA.IT  |
+##### Partecipanti al Progetto:
 
+<img src="https://avatars0.githubusercontent.com/u/45242806?s=460&u=13627eefbe4796c3cf50d081af64708094426b0b&v=4" height="50" align="left">
+<h6>
+  Carmine Calabrese<br/>
+  <a href="https://github.com/Carmineh">GitHub</a>
+  <b>E-Mail: </b> C.CALABRESE31@STUDENTI.UNISA.IT	· 
+</h6>
 
-#####Partecipanti al Progetto:
+<img src="https://avatars1.githubusercontent.com/u/72300425?s=460&u=28922257abcc47ad72f1c4e7d7cdc111df76f961&v=4" height="50" align="left">
+<h6>
+  Ludovico Mazzarisi<br/>
+  <a href="https://github.com/modul31">GitHub</a> · 
+  <b>E-Mail: </b> L.MAZZARISI@STUDENTI.UNISA.IT	·
+</h6>
 
 <img src="https://avatars0.githubusercontent.com/u/44703164?s=460&u=7cc94b0ac65ab5a8467e834902a6d625286e9703&v=4" height="50" align="left">
 <h6>
-  Carmine Calabrese<br/>
-  <a href="https://github.com/Carmineh">GitHub</a> · 
+  Stefano Biddau<br/>
+  <a href="https://github.com/stefanBerau">GitHub</a> · 
+  <b>E-Mail: </b> S.BIDDAU@STUDENTI.UNISA.IT	·
 </h6>
+
 
