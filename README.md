@@ -20,3 +20,4 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
 	* Calabrese Carmine MAT: 0512105740
 	* Ludovico Mazzarisi MAT: 0512105836
 	
+	ciao questo è un messaggio di prova
