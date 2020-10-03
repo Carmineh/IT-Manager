@@ -22,8 +22,8 @@
 ###### Partecipanti al Progetto:
 		
 | Studente  || Studente  | Matricola | E-Mail  |
-| ------------- || ------------- | ------------- | ------------- |
-| <img src="https://avatars0.githubusercontent.com/u/44703164?s=460&u=7cc94b0ac65ab5a8467e834902a6d625286e9703&v=4" height="50" align="left"> || <a href="https://github.com/Carmineh">Carmine Calabrese</a>  | 0512105740  | C.CALABRESE31@STUDENTI.UNISA.IT  |
-| <img src="https://avatars0.githubusercontent.com/u/44703164?s=460&u=7cc94b0ac65ab5a8467e834902a6d625286e9703&v=4" height="50" align="left"> || <a href="https://github.com/modul31">Ludovico Mazzarisi</a>  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
-| <img src="https://avatars0.githubusercontent.com/u/44703164?s=460&u=7cc94b0ac65ab5a8467e834902a6d625286e9703&v=4" height="50" align="left"> || <a href="https://github.com/stefanBerau">Stefano Biddau</a>  | 0512105824  | S.BIDDAU@STUDENTI.UNISA.IT  |
-| <img src="https://i.stack.imgur.com/frlIf.png" height="50" align="left"> || <a href="https://github.com/Carmineh">Stefano Barrella</a>  | 051210----  | ------@STUDENTI.UNISA.IT  |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/Carmineh">Carmine Calabrese</a>  | 0512105740  | C.CALABRESE31@STUDENTI.UNISA.IT  |
+| <a href="https://github.com/modul31">Ludovico Mazzarisi</a>  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
+| <a href="https://github.com/stefanBerau">Stefano Biddau</a>  | 0512105824  | S.BIDDAU@STUDENTI.UNISA.IT  |
+| <a href="https://github.com/Carmineh">Stefano Barrella</a>  | 051210----  | ------@STUDENTI.UNISA.IT  |
