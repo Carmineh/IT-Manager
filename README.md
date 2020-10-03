@@ -12,7 +12,7 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
    * **Amministratore:** Gestione della piattaforma e accesso a tutte le aree
 
    * **Personale:** Accesso ad un'interfaccia per la richiesta di prodotti esauriti, non ha accesso alle aree di amministrazione (Gestione Personale, 
-    Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc).
+    Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc ).
 	
 
 **Partecipanti al Progetto:**
@@ -23,4 +23,4 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
 | Ludovico Mazzarisi  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
 | Stefano Biddau  | 0512105824  | S.BIDDAU@STUDENTI.UNISA.IT  |
 
-	
+	 
