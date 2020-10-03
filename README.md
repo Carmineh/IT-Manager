@@ -10,7 +10,7 @@
   <li>Gestione dei prodotti (Prezzo, Quantità, ecc)</li>
 </ul> 
 
-<h3> <b>Divisione Utenti:</b> </h3>
+###### Divisione Utenti:
 
 <ul> 
   <li><b>Amministratore: </b>Gestione della piattaforma e accesso a tutte le aree </li>
@@ -19,7 +19,7 @@
 </ul>
 
 
-<h3> <b>Partecipanti al Progetto:</b> </h3>
+###### Partecipanti al Progetto:
 		
 | Studente  | Matricola | E-Mail  |
 | ------------- | ------------- | ------------- |
