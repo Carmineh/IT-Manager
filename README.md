@@ -15,9 +15,12 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
     Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc).
 	
 
-* **Partecipanti al Progetto:**
+**Partecipanti al Progetto:**
+		
+| Studente  | Matricola | E-Mail  |
+| ------------- | ------------- | ------------- |
+| Calabrese Carmine  | 0512105740  | C.CALABRESE31@STUDENTI.UNISA.IT  |
+| Ludovico Mazzarisi  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
+| Stefano Biddau  | 0512105824  | S.BIDDAU@STUDENTI.UNISA.IT  |
 
-	* Calabrese Carmine     MAT: 0512105740
-	* Ludovico Mazzarisi    MAT: 0512105836
-    * Stefano Biddau        MAT: 0512105824
 	
