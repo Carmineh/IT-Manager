@@ -13,3 +13,9 @@ Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di 
 
    * **Personale:** Accesso ad un'interfaccia per la richiesta di prodotti esauriti, non ha accesso alle aree di amministrazione (Gestione Personale, 
     Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personal (come accredito stipendi,ecc).
+	
+
+**Partecipanti al Progetto:**
+
+	* Calabrese Carmine MAT: 0512105740
+	
