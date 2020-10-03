@@ -11,7 +11,9 @@
 </ul> 
 
 <h3> <b>Divisione Utenti:</b> </h3>
-   * **Amministratore:** Gestione della piattaforma e accesso a tutte le aree
 
-   * **Personale:** Accesso ad un'interfaccia per la richiesta di prodotti esauriti, non ha accesso alle aree di amministrazione (Gestione Personale, 
-    Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc).
+<ul> 
+  <li><b>Amministratore: </b>Gestione della piattaforma e accesso a tutte le aree </li>
+  <li><b>Personale: </b> Accesso ad un'interfaccia per la richiesta di prodotti esauriti, non ha accesso alle aree di amministrazione (Gestione Personale, 
+    Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc).</li>
+</ul>
