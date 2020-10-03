@@ -27,4 +27,3 @@
 | Ludovico Mazzarisi  | 0512105836  | L.MAZZARISI@STUDENTI.UNISA.IT  |
 | Stefano Biddau  | 0512105824  | S.BIDDAU@STUDENTI.UNISA.IT  |
 | Stefano Barrella  | 051210----  | ------@STUDENTI.UNISA.IT  |
-	 
