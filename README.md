@@ -23,7 +23,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/45242806?s=460&u=13627eefbe4796c3cf50d081af64708094426b0b&v=4" height="50" align="left">
 <h6>
-  Carmine Calabrese `0512105740`
+  Carmine Calabrese ```0512105740```
    <br><a href="https://github.com/Carmineh">GitHub</a>
   • <a href="mailto:C.CALABRESE31@STUDENTI.UNISA.IT">C.CALABRESE31@STUDENTI.UNISA.IT</a> 
   
