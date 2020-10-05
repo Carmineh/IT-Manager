@@ -43,7 +43,7 @@
   • <a href="mailto:S.BIDDAU@STUDENTI.UNISA.IT	">S.BIDDAU@STUDENTI.UNISA.IT	</a> 
 </h6>
 
-<img src ="https://avatars2.githubusercontent.com/u/72301452?s=400&v=4" height="50" align="left">
+<img src ="https://www.instagram.com/p/CEWV3x_oObBfeucvpBjuQ6MbzV2BQyoqg-66Lg0/" height="50" align="left">
 <h6>
 Stefano Barrella</br>
 <a href = "https://github.com/StefanoBarrella">GitHub</a>
