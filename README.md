@@ -13,7 +13,7 @@ Nel sito saranno presenti varie figure, ognuna delle quali svolgerà una singola
 
 </ul>
 
-<p></p>> <b>Gestione della Piattaforma</b>
+<p></p> <b>Gestione della Piattaforma</b>
 
 La piattaforma prevede come pagina principale una pagina di Login (contrassegnata dai campi username e password) che permetterà ai dipendenti del negozio di accedere alla piattaforma ed all’area personale dedicata alla propria mansione: dunque un Magazziniere non potrà fare accesso all’area utente del Direttore Generale. Il tutto verrà gestito mediante una base di dati che, tramite un campo univoco Username, individuerà il singolo dipendente. Nella base di dati saranno presenti inoltre anche tutti i dati anagrafici dei dipendenti, alla base dati avranno accesso solo Direttore Generale e Responsabile Vendite.
 </p>
