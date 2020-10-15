@@ -3,21 +3,7 @@
 
 <p> Branch dedicato ai Work In Progress che verranno effettuati sui vari file presenti nel branch principale "Master"
 
-### Ultima Modifica
-
-<h3>Nome e Ruolo:
-
-<h3>Data: dd/mm/yyyy
-
-<h3>Modifica Apportata: ...
-
-
-
-
-
-
-
-###Partecipanti al Progetto
+<h3>Partecipanti al Progetto
 
 <img src="https://avatars0.githubusercontent.com/u/45242806?s=460&u=13627eefbe4796c3cf50d081af64708094426b0b&v=4" height="50" align="left">
 <h6>
