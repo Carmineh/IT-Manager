@@ -3,6 +3,7 @@
 
 <p> Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di informatica. Nel software, sviluppato sotto piattaforma Web, permetterà di gestire l'intero inventario e i vari dipendenti mediante pagine apposite, nello specifico: </p>
 
+<<<<<<< HEAD
 <ul>
   <li>Gestione Personale (Numero, Ore, Stipendi)</li>
   <li>Gestione dell'inventario</li>
@@ -20,6 +21,10 @@
 
 
 ##### Partecipanti al Progetto:
+=======
+<h4>Partecipanti al Progetto<br>
+  <br><br>
+>>>>>>> 6742e98eaec5ca3a2707e05028dfebf9922b16d6
 
 <img src="https://avatars0.githubusercontent.com/u/45242806?s=460&u=13627eefbe4796c3cf50d081af64708094426b0b&v=4" height="50" align="left">
 <h6>
