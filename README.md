@@ -3,7 +3,8 @@
 
 <p> Branch dedicato ai Work In Progress che verranno effettuati sui vari file presenti nel branch principale "Master"
 
-<h3>Partecipanti al Progetto</br>
+<h4>Partecipanti al Progetto<br>
+  <br><br>
 
 <img src="https://avatars0.githubusercontent.com/u/45242806?s=460&u=13627eefbe4796c3cf50d081af64708094426b0b&v=4" height="50" align="left">
 <h6>
