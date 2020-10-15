@@ -1,9 +1,25 @@
 <h2 align="center">Progetto Ingegneria del Software 2020/21 - UniSA</h2>
-<h1 align="center">IT-Manager - Work In Progress</h1>
+<h1 align="center">IT-Manager</h1>
 
-<p> Branch dedicato ai Work In Progress che verranno effettuati sui vari file presenti nel branch principale "Master"
+<p> Il progetto nasce dall'esigenza reale di gestire tramite software un negozio di informatica. Nel software, sviluppato sotto piattaforma Web, permetterà di gestire l'intero inventario e i vari dipendenti mediante pagine apposite, nello specifico: </p>
 
-<h3>Partecipanti al Progetto
+<ul>
+  <li>Gestione Personale (Numero, Ore, Stipendi)</li>
+  <li>Gestione dell'inventario</li>
+  <li>Gestione delle entrate ed uscite economiche</li>
+  <li>Gestione dei prodotti (Prezzo, Quantità, ecc)</li>
+</ul> 
+
+##### Divisione Utenti:
+
+<ul> 
+  <li><b>Amministratore: </b>Gestione della piattaforma e accesso a tutte le aree </li>
+  <li><b>Personale: </b> Accesso ad un'interfaccia per la richiesta di prodotti esauriti, non ha accesso alle aree di amministrazione (Gestione Personale, 
+    Gestione Entrate/Uscite), può accedere alla propria area riservata per visualizzare informazioni personali (come accredito stipendi,ecc).</li>
+</ul>
+
+
+##### Partecipanti al Progetto:
 
 <img src="https://avatars0.githubusercontent.com/u/45242806?s=460&u=13627eefbe4796c3cf50d081af64708094426b0b&v=4" height="50" align="left">
 <h6>
