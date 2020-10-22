@@ -1,5 +1,5 @@
 <h2 align="center">Progetto Ingegneria del Software 2020/21 - UniSA</h2>
-<h1 align="center"><img src ="https://i.imgur.com/qCEo6HR.png"></h1>
+<h1 align="center"><img src ="https://i.imgur.com/9iUjfrU.png"></h1>
 
 <p> Il progetto nasce dalla situazione reale di gestione di un negozio specializzato in ambito informatico. Tale progetto prevede lo sviluppo di una piattaforma web che consenta alle varie figure presenti nel negozio di gestire le proprie mansioni (gestione inventario, gestione stipendi, ecc.). Il tutto sarà gestito attraverso un login collegato ad una base di dati che, tramite dati univoci quali username e password, permetterà l’accesso alla propria area di lavoro.
 Nel sito saranno presenti varie figure, ognuna delle quali svolgerà una singola mansione: </p>
