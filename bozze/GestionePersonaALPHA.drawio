@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T21:38:46.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="mPmJtFS5LKPiz19Ar8eC" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T21:44:59.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="EIe-r0kSoCEgr4_-oPTS" version="13.10.3" type="github">
   <diagram id="VMwvuHMHmn4qF0MscLtu" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="gUlx6FJKL10JjqpR3l20-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Rimozione Dipendente&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="265" width="145" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gUlx6FJKL10JjqpR3l20-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Registrazione&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="257.5" y="180" width="145" height="20" as="geometry" />
+        <mxCell id="gUlx6FJKL10JjqpR3l20-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Registrazione&lt;br&gt;dipendente&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="257.5" y="187" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gUlx6FJKL10JjqpR3l20-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Visualizzazione Informazioni dipendenti&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="537.5" y="410" width="145" height="20" as="geometry" />
