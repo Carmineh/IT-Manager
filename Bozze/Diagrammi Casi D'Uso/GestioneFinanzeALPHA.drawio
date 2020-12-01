@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T15:50:38.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="WAxKFFGNCsIq847uvbB6" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T16:24:32.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="qTP7WQxmJB4kfAwTBW1N" version="13.10.5" type="github">
   <diagram id="ItNjQNX7oRzqFyE7Ipll" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,8 +72,8 @@
         <mxCell id="C06ovZrhE3uBorGxhGHh-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="240" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C06ovZrhE3uBorGxhGHh-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Finanze Error&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="711" y="302" width="98" height="20" as="geometry" />
+        <mxCell id="C06ovZrhE3uBorGxhGHh-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Inserimento&lt;br&gt;finanza&lt;br&gt;errata&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="711" y="310" width="98" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C06ovZrhE3uBorGxhGHh-9" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C06ovZrhE3uBorGxhGHh-5" target="C06ovZrhE3uBorGxhGHh-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
