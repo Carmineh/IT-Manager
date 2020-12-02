@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T19:24:58.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="E_SQS3tbeRuRpGpVzqMi" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T19:25:39.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="76jvOUsO3H0ZpEMsjwzp" version="13.10.6" type="github">
   <diagram id="ItNjQNX7oRzqFyE7Ipll" name="Page-1">
     <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="70" width="120" height="97" as="geometry" />
         </mxCell>
         <mxCell id="o0FbUrnGtFw57tziQlIS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="139" y="105" width="670" height="530" as="geometry" />
+          <mxGeometry x="150" y="120" width="670" height="530" as="geometry" />
         </mxCell>
         <mxCell id="o0FbUrnGtFw57tziQlIS-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Inserimento nuova uscita&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="400" width="145" height="20" as="geometry" />
@@ -64,10 +64,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C06ovZrhE3uBorGxhGHh-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="180" width="80" height="60" as="geometry" />
+          <mxGeometry x="549" y="230" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C06ovZrhE3uBorGxhGHh-6" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Campi del movimento&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;non compilat&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;i&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="529" y="250" width="120" height="20" as="geometry" />
+        <mxCell id="C06ovZrhE3uBorGxhGHh-6" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Dati inseriti non corretti&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="529" y="296" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C06ovZrhE3uBorGxhGHh-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="80" height="60" as="geometry" />
