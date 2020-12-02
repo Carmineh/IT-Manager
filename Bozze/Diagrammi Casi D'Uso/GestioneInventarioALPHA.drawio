@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T17:59:54.063Z" agent="5.0 (Windows)" etag="CDZYmFdlOpf352XVUbRw" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:02:15.538Z" agent="5.0 (Windows)" etag="k2RWExObJeGRMbO3FYmU" version="13.10.6" type="github">
   <diagram id="RcybXoDZJoYCDfinM7sL" name="Page-1">
-    <mxGraphModel dx="1662" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="665" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="150" y="115.13" width="650" height="681" as="geometry" />
         </mxCell>
         <mxCell id="a_w7ONJ3W2yyLTA47ird-16" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Magazziniere&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="115.13" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="167.56" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_w7ONJ3W2yyLTA47ird-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Responsabile&lt;br&gt;Vendite&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="439.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="467.75" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_w7ONJ3W2yyLTA47ird-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="140" width="80" height="60" as="geometry" />
@@ -34,20 +34,20 @@
         <mxCell id="a_w7ONJ3W2yyLTA47ird-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254.75" y="520" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_w7ONJ3W2yyLTA47ird-27" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a_w7ONJ3W2yyLTA47ird-16" target="a_w7ONJ3W2yyLTA47ird-20" edge="1">
+        <mxCell id="a_w7ONJ3W2yyLTA47ird-27" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="a_w7ONJ3W2yyLTA47ird-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="179" as="sourcePoint" />
+            <mxPoint x="70" y="180" as="sourcePoint" />
             <mxPoint x="330" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a_w7ONJ3W2yyLTA47ird-28" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a_w7ONJ3W2yyLTA47ird-16" target="a_w7ONJ3W2yyLTA47ird-24" edge="1">
+        <mxCell id="a_w7ONJ3W2yyLTA47ird-28" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="a_w7ONJ3W2yyLTA47ird-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="180" as="sourcePoint" />
+            <mxPoint x="70" y="190" as="sourcePoint" />
             <mxPoint x="330" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_w7ONJ3W2yyLTA47ird-29" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-159.25" y="460.75" width="504" height="17.5" as="geometry" />
+          <mxGeometry x="-156" y="489" width="504" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="a_w7ONJ3W2yyLTA47ird-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Rimozione &amp;nbsp;prodotto Inventario&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="460.75" width="145" height="20" as="geometry" />
@@ -64,10 +64,10 @@
         <mxCell id="a_w7ONJ3W2yyLTA47ird-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="390" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_w7ONJ3W2yyLTA47ird-35" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a_w7ONJ3W2yyLTA47ird-34" target="a_w7ONJ3W2yyLTA47ird-16" edge="1">
+        <mxCell id="a_w7ONJ3W2yyLTA47ird-35" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a_w7ONJ3W2yyLTA47ird-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="320" as="sourcePoint" />
-            <mxPoint x="80" y="180" as="targetPoint" />
+            <mxPoint x="70" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_w7ONJ3W2yyLTA47ird-37" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a_w7ONJ3W2yyLTA47ird-29" target="a_w7ONJ3W2yyLTA47ird-26" edge="1">
