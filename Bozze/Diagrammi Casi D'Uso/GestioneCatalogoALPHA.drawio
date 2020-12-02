@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T17:38:38.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="9oFf3cCDyw2qepCijrFZ" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T17:38:51.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="jGctSNDnpvE45UZ4QbEM" version="13.10.5" type="github">
   <diagram id="jAhwxljwhNbG54JEEvyB" name="Page-1">
     <mxGraphModel dx="788" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="587.5" y="190" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5G33NtFEvxfEJbMjsAAF-37" value="&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 14px&quot;&gt;Modifica Prezzo&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="372.5" y="250" width="145" height="20" as="geometry" />
+          <mxGeometry x="367.5" y="250" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5G33NtFEvxfEJbMjsAAF-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Visualizzazione Lista&amp;nbsp;&lt;br&gt;prodotti nel Catalogo&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="650" width="145" height="20" as="geometry" />
