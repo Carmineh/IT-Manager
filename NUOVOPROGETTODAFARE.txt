@@ -1,0 +1,37 @@
+		Amministratore:
+			- Direttore(Visione su tutto)
+			- Res. Piattaforma(Gestisce la piattaforma)
+		
+		Utente Registrato:
+			- Magazziniere(Gestisce l'inventario)
+			- Commesso(Si occupa delle vendite)
+		
+		Utente non Registrato:
+			- Coloro che non possono fare nulla
+			- Cliente - FIDELITY CARD
+			
+		(Idea per il sito)
+		Negozio di Elettronica
+			Mediaworld
+		
+	LISTA DI COSE DA FARE:
+		- Sistema di notificazione automatica
+		- Bilancio automatico
+		- Sistema di Acquisto intero (Dotato di fattura) [Commesso fa l'acquisto]
+		- Sistema di Fidelity Card (Profilazione Clienti)
+		- Sistema Carrello Interno (Utile per bilancio mensile | FAC SIMILE Registratore di cassa)
+		- Rimozione Catalogo
+		- Cambiamento totale alla vecchia idea inventario
+		- Cambiamento dei ruoli (Vedere Sopra)
+		- Rimozione Area Utente (INUTILE)
+		- Modifiche alla presentazione del progetto
+		- Gerarchizzazione Utenti (Modifica Casi D'uso | Vedi sopra) 
+		- Revisione COMPLETA dei casi d'uso
+		- Rifare il diagramma navigazionale (REVISIONE)
+		- Rifare Class Diagram (REVISIONE)
+		- Gestione P. IVA (Da commentare con tutto il gruppo)
+		- Modifica Requisiti Funzionali (REVISIONE)
+		- Modifica Casi D'Uso (REVISIONE)
+		- Rivedere gli scenari (Prima finire Casi D'Uso)
+		
+		
